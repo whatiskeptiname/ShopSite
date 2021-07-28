@@ -1,0 +1,13 @@
+.product{
+    max-width: 150rem;
+    margin: 10px;
+}
+
+.product img{
+    padding: 1px 1px 9px;
+    max-height: 9rem;
+}
+
+.btn{
+    margin: 0 0 5px;
+}
