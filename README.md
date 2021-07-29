@@ -1,3 +1,7 @@
+# ShopSite-web
+
+Web App for [ShopSite-API](https://github.com/whatiskeptiname/ShopSite-API).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
